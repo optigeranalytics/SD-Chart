@@ -61,4 +61,4 @@ def update_graph(stock):
 if __name__ == '__main__':
     app.run_server(debug=True)
 
-    #print
+    #print 1gasg
